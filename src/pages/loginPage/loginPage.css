@@ -1,0 +1,61 @@
+.body-login {
+  background-image: url("../../assets/back.jpg");
+  display: flex;
+  background-size: cover;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+input {
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.button-form {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  background-color: white;
+  border: 1px;
+  width: max-content;
+  padding: 0 10px;
+  height: 40px;
+  margin: 10px 0;
+  font-weight: bold;
+  border-radius: 5px;
+  background-color: slateblue;
+  color: white;
+}
+
+label {
+  color: white;
+  margin: 10px;
+}
+
+form {
+  border-radius: 60px;
+  padding: 20px;
+  border: none;
+  width: 250px;
+  background-color: rgb(0, 0, 0, 0.4);
+  border-bottom: 100%;
+}
+
+p {
+  color: white;
+  margin: 10px;
+  margin-bottom: 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.textfield {
+  margin: 100px;
+  color: white;
+  text-align: center;
+  align-content: center;
+}

@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.games {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 30px;
+  justify-content: center;
+}
+
+.games li {
+  list-style: none;
+}
+
+.games img {
+  width: 250px;
+  padding: 10px;
+}
+
+.games img:hover {
+  width: 300px;
+  transition: 1s;
+}
